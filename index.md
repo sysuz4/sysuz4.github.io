@@ -18,3 +18,5 @@ layout: default
     - 6.4 [State Model 状态模型](06-04-state-model)
     - 6.5 [System Sequence Diagram 功能模型](06-05-system-sequence-diagram)
     - 6.6 [Supplementary Requirements 补充性说明](06-06-supplementary-requirements)
+* 7、Design 设计
+	- 7.1 [UI design](07-01-UI-design)
