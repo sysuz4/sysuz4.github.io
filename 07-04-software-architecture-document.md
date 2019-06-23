@@ -48,3 +48,9 @@
 - Service：服务层，处理业务逻辑
 - mapper：处理数据库的交互
 - Model：数据层，数据模型
+
+## 逻辑视图
+![logic_view](https://github.com/ArtemisZGL/sysuz4.github.io/blob/master/img/packageDiagram.png?raw=true)
+
+## 物理视图
+![physic_view](https://github.com/ArtemisZGL/sysuz4.github.io/blob/master/img/backend.png?raw=true)
