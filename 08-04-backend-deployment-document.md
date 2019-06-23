@@ -4,7 +4,7 @@ springboot + Nginx + mysql
 ---
 
 ## 一、 部署架构图
-
+![deploy](https://github.com/ArtemisZGL/sysuz4.github.io/blob/master/img/backend.png?raw=true)
 ---
 
 ## 二、 部署流程
