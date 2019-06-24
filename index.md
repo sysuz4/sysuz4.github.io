@@ -37,10 +37,10 @@ layout: default
         - 8.4.1[Yixianquan System Backend部署文档](08-04-01-bushu-backend)
         - 8.4.1[Yixianquan System Frontend部署文档](https://github.com/sysuz4/EarningMoney)
 * X1 meet_recording
-    - [Inception meeting (2018/03/23)](X1-inception-meeting)
-    - [Iteration 1 meeting (2018/04/09)](X1-iteration1-meeting)
-    - [Iteration 2 meeting (2018/05/09)](X1-iteration2-meeting)
-    - [Iteration 3 meeting (2018/06/30)](X1-iteration3-meeting)
+    - [Kick off meeting (2019/04/02)](Kick-off meeting)
+    - [Iteration 1 meeting (2018/04/09)](X1-exception-meeting)
+    - [Iteration 2 meeting (2018/05/09)](X2-exception-meeting)
+    - [Iteration 3 meeting (2018/06/30)](X3-exception-meeting)
 * X2 Techwork-report
     - [产品经理-zhengxq](https://blog.csdn.net/zhengxqq27/article/details/93086637)
     - [android开发-zhongzz](https://www.baidu.com/)
