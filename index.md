@@ -43,7 +43,7 @@ layout: default
     - [Iteration 3 meeting (2019/06/09)](X3-reception-meeting)
 * X2 Techwork-report
     - [产品经理-zhengxq](https://blog.csdn.net/zhengxqq27/article/details/93086637)
-    - [android开发-zhongzz](https://www.baidu.com/)
+    - [android开发-zhongzh](https://blog.csdn.net/Jeffba/article/details/93535916)
     - [后台开发-zhenggl](https://www.baidu.com/)
     - [后台开发-zhuzl](https://blog.csdn.net/weixin_36328380/article/details/88819481)
     - [后台开发-zhangyz](https://www.baidu.com/)
