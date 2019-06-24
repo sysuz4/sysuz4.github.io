@@ -31,7 +31,7 @@ layout: default
     - 7.5 [用例设计](07-05-usecase-design)
 * 8、生产规范指南
     - 8.1[代码规范](08-01-coding-standard)
-    - 8.2[RESTF API设计规范](08-02-RESTFUL-api-design-standard)
+    - 8.2[RESTF API设计规范](08-02-RESTful-api-design-standard)
     - 8.3[框架目录设计与逻辑结构与ECB的关系](08-03-relationship) 
     - 8.4部署文档
         - 8.4.1[Yixianquan System Backend部署文档](08-04-01-bushu-backend)
@@ -45,7 +45,7 @@ layout: default
     - [产品经理-zhengxq](https://blog.csdn.net/zhengxqq27/article/details/93086637)
     - [android开发-zhongzh](https://blog.csdn.net/Jeffba/article/details/93535916)
     - [后台开发-zhenggl](https://www.baidu.com/)
-    - [后台开发-zhuzl](https://www.baidu.com/)
+    - [后台开发-zhuzl](https://blog.csdn.net/weixin_36328380/article/details/88819481)
     - [后台开发-zhangyz](https://www.baidu.com/)
     - [后台开发-zhaomi](https://www.baidu.com/)
 * X3 Final Report
