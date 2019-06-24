@@ -51,7 +51,7 @@ layout: default
 * X3 Final Report
     - [16340305-zhengxq](zhengxq-report.md)
     - [16340307-zhongzz](zhongzz-report.md)
-    - [16340317-zhuzl](zhuzl-report.md)
+    - [16340317-zhuzl](https://blog.csdn.net/weixin_36328380/article/details/93534522)
     - [1634XXXX-zhenggl](zhenggl-report.md)
     - [1634XXXX-zhangyz](zhangyz-report.md)
     - [1634XXXX-zhaomi](zhaomi-report.md)
