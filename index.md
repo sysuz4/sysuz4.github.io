@@ -35,7 +35,7 @@ layout: default
     - 8.3[框架目录设计与逻辑结构与ECB的关系](08-03-relationship) 
     - 8.4部署文档
         - 8.4.1[Yixianquan System Backend部署文档](08-04-01-bushu-backend)
-        - 8.4.2[Yixianquan System Frontend部署文档](08-04-02-bushu-frontend)
+        - 8.4.1[Yixianquan System Frontend部署文档](https://github.com/sysuz4/EarningMoney)
 * X1 meet_recording
     - [Inception meeting (2018/03/23)](X1-inception-meeting)
     - [Iteration 1 meeting (2018/04/09)](X1-iteration1-meeting)
