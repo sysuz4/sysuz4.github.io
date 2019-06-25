@@ -53,12 +53,30 @@
 
 <h2>个人git总结</h2>
 
-[sysuz4.github.com 文档](https://github.com/sysuz4/sysuz4.github.io/graphs/contributors)
-![文档]()
+- [sysuz4.github.com 文档](https://github.com/sysuz4/sysuz4.github.io/graphs/contributors) 
+
+![文档](https://raw.githubusercontent.com/sysuz4/sysuz4.github.io/master/img/docs.png)
 
 
-[EarningMoney 易闲圈前端](https://github.com/sysuz4/EarningMoney/graphs/contributors)
-![前端]()
+- [EarningMoney 易闲圈前端](https://github.com/sysuz4/EarningMoney/graphs/contributors)
 
-[AppServer 易闲圈后端](https://github.com/sysuz4/AppServer/graphs/contributors)
-![后台]()
+![前端](https://raw.githubusercontent.com/sysuz4/sysuz4.github.io/master/img/frontend.png)
+
+
+- [AppServer 易闲圈后端](https://github.com/sysuz4/AppServer/graphs/contributors)
+
+![后台](https://raw.githubusercontent.com/sysuz4/sysuz4.github.io/master/img/mybackend.png)
+
+<h2>个人博客</h2>
+
+- [产品经理初任职之心得体会](https://blog.csdn.net/zhengxqq27/article/details/93086637)
+- [SpringBoot接收前端的json参数并解析](https://blog.csdn.net/zhengxqq27/article/details/90486141)
+
+<h2>特别致谢</h2>
+
+- 郑国林同学，作为前后端开发的绝对主力帮助团队客服一个个开发难题；
+- 朱泽磊同学，后端开发的主力，任劳任怨，事无巨细地满足前端开发人员的需求；
+- 钟朝晖同学，前端开发的主力，项目初期一个人扛起了android开发的大旗；
+- 张寅哲同学，独立完成数据库表的设计，在项目进度吃紧的时候总能赶在DDL前完成任务；
+- 赵米同学：作为标准的制定和文档的编写人，米哥打在屏幕上的内容就是我们要遵守的标准
+
