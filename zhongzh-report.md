@@ -59,7 +59,7 @@
 
 
 ### [EarningMoney 易闲圈前端](https://github.com/sysuz4/EarningMoney/graphs/contributors)
-![](img/zzh-contribute-EarningMoney.JPG)
+![](img/zzh-contribute-EarningMoney_2.JPG)
 
 -------
 ## 个人博客
