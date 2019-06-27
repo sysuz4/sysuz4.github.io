@@ -122,5 +122,156 @@
 * 外键：questionareId(questionare)
 
 
+## 字段状态定义
+
+<table>
+    <tr>
+    <!-- 居中时就在td中加入align="center" -->
+        <td><font size="5">类名</font></td>
+        <td><font size="5"></font></td>
+        <td><font size="5">状态码</font></td>
+        <td><font size="5">英文字段</font></td>
+        <td><font size="5">含义</font></td>
+    </tr>
+    <tr>
+        <td rowspan="4">User</td>
+        <td  rowspan="2">userType</td>
+        <td>0</td>
+        <td>USER</td>
+        <td>用户</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>ADMINISTRATOR</td>
+        <td>管理员</td>
+    </tr>
+    <tr>
+        <td  rowspan="2">sex</td>
+        <td>0</td>
+        <td>MALE</td>
+        <td>男</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>FEMALE</td>
+        <td>女</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Mission</td>
+        <td  rowspan="3">missionStatus</td>
+        <td>0</td>
+        <td>NEED_MORE_PEOPLE</td>
+        <td>完成此任务的人数还不够</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>MAX_PEOPLE</td>
+        <td>能接受此任务的人数已达上限</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>OVERDUE</td>
+        <td>发布的任务过期</td>
+    </tr>
+    <tr>
+        <td rowspan="6">Task</td>
+        <td  rowspan="4">taskStatus</td>
+        <td>0</td>
+        <td>TO_DO</td>
+        <td>此任务未被人接收</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>DOING</td>
+        <td>此任务已被人接收且正在执行</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>DONE_BUT_NOT_CONFIRM</td>
+        <td>此任务已被接收者执行完毕，发布者还未确认</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>DONE_AND_CONFIRM</td>
+        <td>此任务已被上方确认完成</td>
+    </tr>
+    <tr>
+        <td  rowspan="2">taskType</td>
+        <td>0</td>
+        <td>TASK_ERRAND</td>
+        <td>跑腿任务</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>TASK_QUESTIONARE</td>
+        <td>问卷任务</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Question</td>
+        <td  rowspan="3">questionType</td>
+        <td>0</td>
+        <td>SINGLE</td>
+        <td>单选题</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>MULTIPLE</td>
+        <td>多选题</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>QUESTION_AND_ANSWER</td>
+        <td>问答题</td>
+    </tr>
+    <tr>
+        <td rowspan="2">Report</td>
+        <td  rowspan="2">status</td>
+        <td>0</td>
+        <td>NO_REPORTED</td>
+        <td>没有被举报</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>REPORTED</td>
+        <td>mission被举报</td>
+    </tr>
+    <!-- <tr>
+        <td  rowspan="2">result</td>
+        <td>0</td>
+        <td>举报失败</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>举报成功</td>
+    </tr> -->
+    <tr>
+        <td rowspan="2">Judge</td>
+        <td  rowspan="2">status</td>
+        <td>0</td>
+        <td>NO_JUDGE</td>
+        <td>不需要仲裁</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>JUDGING</td>
+        <td>正在执行仲裁</td>
+    </tr>
+    <!-- <tr>
+        <td  rowspan="2">result</td>
+        <td>0</td>
+        <td>该任务存在违规现象</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>该任务正常</td>
+    </tr> -->
+    <tr>
+        <td colspan = "3">yyyy-MM-dd</td>
+        <td>DATA_FORMAT</td>
+        <td>日期格式</td>
+    </tr>
+</table>
+
+
 
   
