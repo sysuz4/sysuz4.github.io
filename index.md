@@ -53,5 +53,5 @@ layout: default
     - [16340307-zhongzz](zhongzz-report.md)
     - [16340317-zhuzl](https://blog.csdn.net/weixin_36328380/article/details/93534522)
     - [1634XXXX-zhenggl](zhenggl-report.md)
-    - [1634XXXX-zhangyz](zhangyz-report.md)
-    - [1634XXXX-zhaomi](zhaomi-report.md)
+    - [16340295-zhangyz](zhangyz-report.md)
+    - [16340302-zhaomi](zhaomi-report.md)
