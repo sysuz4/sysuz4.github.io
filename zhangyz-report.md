@@ -51,4 +51,4 @@
 
 ## 个人博客 ##
 
-[张寅哲的博客](zhangyzh_blog)
+[张寅哲的博客](zhangyzh_blog.md)

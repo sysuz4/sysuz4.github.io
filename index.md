@@ -46,7 +46,7 @@ layout: default
     - [android开发-zhongzh](https://blog.csdn.net/Jeffba/article/details/93535916)
     - [后台开发-zhenggl](https://www.baidu.com/)
     - [后台开发-zhuzl](https://blog.csdn.net/weixin_36328380/article/details/88819481)
-    - [后台开发-zhangyz](https://www.baidu.com/)
+    - [后台开发-zhangyz](zhangyzh_blog.md)
     - [后台开发-zhaomi](https://www.baidu.com/)
 * X3 Final Report
     - [16340305-zhengxq](zhengxq-report.md)
