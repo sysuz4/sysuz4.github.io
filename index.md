@@ -19,8 +19,7 @@ layout: default
     - 6.5 [System Sequence Diagram 功能模型](06-05-system-sequence-diagram)
     - 6.6 [Supplementary Requirements 补充性说明](06-06-supplementary-requirements)
 * 7、Design 设计
-    - 7.1 UI desigin UI设计
-        - 7.1.1 [用例UI设计](uidesign)
+    - 7.1 [UI desigin UI设计](uidesign)
     - 7.2 Database Design 数据库设计
         - 7.2.1 [用户及权限系统数据库设计](07-02-01-database-design)
         - 7.2.2 [数据库ER模型图](07-02-02-database-er-model)
