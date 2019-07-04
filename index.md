@@ -51,6 +51,6 @@ layout: default
     - [16340305-zhengxq](zhengxq-report.md)
     - [16340307-zhongzh](zhongzh-report.md)
     - [16340317-zhuzl](https://blog.csdn.net/weixin_36328380/article/details/93534522)
-    - [1634XXXX-zhenggl](zhenggl-report.md)
+    - [16340304-zhenggl](https://blog.csdn.net/Artemis16340304/article/details/93794515)
     - [16340295-zhangyz](zhangyz-report.md)
-    - [16340302-zhaomi](zhaomi-report.md)
+    - [16340302-zhaomi](https://blog.csdn.net/zm16340302/article/details/93893916)
