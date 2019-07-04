@@ -30,7 +30,7 @@ layout: default
 * 8、生产规范指南
     - 8.1[代码规范](08-01-coding-standard)
     - 8.2[RESTF API设计规范](08-02-RESTful-api-design-standard)
-    - 8.3[框架目录设计与逻辑结构与ECB的关系](08-03-relationship) 
+    - 8.3框架目录设计与逻辑结构与ECB的关系
     - 8.4部署文档
         - 8.4.1[Yixianquan System Backend部署文档](08-04-01-bushu-backend)
         - 8.4.1[Yixianquan System Frontend部署文档](https://github.com/sysuz4/EarningMoney)
