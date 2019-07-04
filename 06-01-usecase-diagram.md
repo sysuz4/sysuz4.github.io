@@ -1,2 +1,2 @@
 <h1>Usecase Diagram</h1>
-![Usecase](https://raw.githubusercontent.com/zhengxq27/picture/master/usecase.png)
+![](https://raw.githubusercontent.com/sysuz4/sysuz4.github.io/master/img/usecase.png)

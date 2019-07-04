@@ -69,6 +69,8 @@ mysql -u root -p
 
 输入密码
 
+set password for root@localhost = password('Swsad123456'); 
+
 create database yxq;
 
 use yxq;
