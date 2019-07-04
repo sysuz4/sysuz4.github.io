@@ -48,7 +48,7 @@ layout: default
 
     - [后台开发-zhuzl](https://blog.csdn.net/weixin_36328380/article/details/88819481)
     - [后台开发-zhangyz](https://www.baidu.com/)
-    - [后台开发-zhaomi](https://www.baidu.com/)
+    - [后台开发-zhaomi](https://blog.csdn.net/zm16340302/article/details/93851843)
 * X3 Final Report
     - [16340305-zhengxq](zhengxq-report.md)
     - [16340307-zhongzh](zhongzh-report.md)
@@ -56,4 +56,4 @@ layout: default
     - [16340304-zhenggl](https://blog.csdn.net/Artemis16340304/article/details/93794515)
 
     - [1634XXXX-zhangyz](zhangyz-report.md)
-    - [1634XXXX-zhaomi](zhaomi-report.md)
+    - [1634XXXX-zhaomi](https://blog.csdn.net/zm16340302/article/details/93893916)

@@ -20,7 +20,7 @@
 
 <h2> 3.敏捷开发迭代管理 </h2>
 
-- [Kick off meeting (2019/04/02)](Kick-off meeting)
+- [Kick off meeting (2019/04/02)](Kick-off-meeting)
 - [Iteration 1 meeting (2019/04/09)](X1-reception-meeting)
 - [Iteration 2 meeting (2019/05/09)](X2-reception-meeting)
 - [Iteration 3 meeting (2019/06/09)](X3-reception-meeting)
