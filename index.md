@@ -25,7 +25,6 @@ layout: default
         - 7.2.1 [用户及权限系统数据库设计](07-02-01-database-design)
         - 7.2.2 [数据库ER模型图](07-02-02-database-er-model)
         - 7.2.3 XX子系统数据课设计
-        - 7.2.4 [第三方数据评审结果](07-02-04-第三方数据评审结果)
     - 7.3 [API设计](http://106.14.225.59:8787)
     - 7.4 [软件架构文档](07-04-software-architecture-docoument)
     - 7.5 [用例设计](07-05-usecase-design)
