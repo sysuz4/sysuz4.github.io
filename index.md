@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 ---
 
@@ -44,13 +44,14 @@ layout: default
 * X2 Techwork-report
     - [产品经理-zhengxq](https://blog.csdn.net/zhengxqq27/article/details/93086637)
     - [android开发-zhongzh](https://blog.csdn.net/Jeffba/article/details/93535916)
-    - [后台开发-zhenggl](https://www.baidu.com/)
+    - [后台开发部署-zhenggl](https://blog.csdn.net/Artemis16340304/article/details/90679931)
     - [后台开发-zhuzl](https://blog.csdn.net/weixin_36328380/article/details/88819481)
     - [后台开发-zhangyz](zhangyzh_blog.md)
-    - [后台开发-zhaomi](https://www.baidu.com/)
+    - [后台开发-zhaomi](https://blog.csdn.net/zm16340302/article/details/93851843)
+
 * X3 Final Report
     - [16340305-zhengxq](zhengxq-report.md)
-    - [16340307-zhongzz](zhongzz-report.md)
+    - [16340307-zhongzh](zhongzh-report.md)
     - [16340317-zhuzl](https://blog.csdn.net/weixin_36328380/article/details/93534522)
     - [1634XXXX-zhenggl](zhenggl-report.md)
     - [16340295-zhangyz](zhangyz-report.md)
